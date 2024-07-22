@@ -1,2 +1,2 @@
 # Internshala-Advance-Excel
-This repository is for the skills earned and projects made during Advance Excel Training of Internshala Data-Science Placement Gurantee Course.
+This repository is for the SKILLS earned and a PROJECT made during ADVANCE EXCEL TRAINING of Internshala Data-Science Placement Gurantee Course.
