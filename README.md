@@ -1,7 +1,8 @@
 # Internshala-Advance-Excel
 # This repository is for the SKILLS earned and a PROJECT made during ADVANCE EXCEL TRAINING of Internshala Data-Science Placement Gurantee Course.
 
-# SKILLS EARNED
+
+# SKILLS EARNED -->
 ## Beginner to Advanced Excel: 
 Comprehensive understanding of Excel functionalities.
 
@@ -18,7 +19,8 @@ Mastering the use of pivot tables for efficient data summarization and reporting
 Designing impactful Dashboards.
 
 
-# PROJECT DESCRIPTION
+
+# PROJECT DESCRIPTION -->
 # CASE STUDY
 
 ## Objective
