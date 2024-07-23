@@ -3,21 +3,13 @@ This repository is for the SKILLS earned and a PROJECT made during ADVANCE EXCEL
 
 
 # SKILLS EARNED -->
-## Beginner to Advanced Excel: 
-Comprehensive understanding of Excel functionalities.
 
-## Data Visualization: 
-Creating insightful and compelling visual representations of data.
 
-## Data Analysis: 
-Conducting thorough data analysis to drive informed decision-making.
-
-## Pivot Tables: 
-Mastering the use of pivot tables for efficient data summarization and reporting.
-
-## Dashboards: 
-Designing impactful Dashboards.
-
+* Beginner to Advanced Excel: Comprehensive understanding of Excel functionalities.
+* Data Visualization: Creating insightful and compelling visual representations of data.
+* Data Analysis: Conducting thorough data analysis to drive informed decision-making.
+* Pivot Tables: Mastering the use of pivot tables for efficient data summarization and reporting.
+* Dashboards: Designing impactful Dashboards.
 
 
 # PROJECT DESCRIPTION -->
